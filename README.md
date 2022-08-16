@@ -1,1 +1,1 @@
-# javascript-tutorials
+# javascript-tutorials and projects
